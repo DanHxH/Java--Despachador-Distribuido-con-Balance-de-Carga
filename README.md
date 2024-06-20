@@ -19,7 +19,7 @@ Este proyecto implementa un sistema distribuido para la ejecución de procesos e
 ## Uso
 
 1. **Clonar el repositorio:**
-   git clone https://github.com/tu-usuario/despachador-distribuido.git
+   git clone https://github.com/DanHxH/Java--Despachador-Distribuido-con-Balance-de-Carga.git
 
 2. **Compilar y ejecutar el servidor:**
    javac Servidor.java
